@@ -10,4 +10,9 @@ Our preset for renovatebot. You can use this config in a repository by creating 
 }
 ```
 
+You'll also need to enabled these two bots for the repository:
+
+- https://github.com/apps/renovate
+- https://github.com/apps/renovate-approve
+
 See the [renovate docs](https://docs.renovatebot.com/config-presets/#organization-level-presets) for more information.
